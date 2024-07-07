@@ -7,9 +7,8 @@ This project is about chest cancer detection using machine learning. Kaggle Ches
 You can find data and more description here: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 Project's plan:
-
-Preprocessing images (presenting sample and number of images, preprocessing image brightness and size);
-Creating a dataframe;
-Dimensionality reduction (t-SNE, PCA);
-Creating models (KNN, Random Forest, SVC);
-Applying ensembles methods (Voting classifier and Stacking classifier).
+- Preprocessing images (presenting sample and number of images, preprocessing image brightness and size),
+- Creating a dataframe,
+- Dimensionality reduction (t-SNE, PCA),
+- Creating models (KNN, Random Forest, SVC),
+- Applying ensembles methods (Voting classifier and Stacking classifier)
